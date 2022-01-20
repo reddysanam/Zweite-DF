@@ -1,0 +1,9 @@
+{
+	"name": "zweite-DF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b2b7911-672a-43b9-9fc8-4671ad033aa0",
+		"tenantId": "b5956ce1-6e21-4d41-8742-6cde83523402"
+	}
+}
