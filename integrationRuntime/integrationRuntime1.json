@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/a80a59cc-cb2c-43c7-b607-66f9ccd7189f/resourcegroups/RG-17498031/providers/Microsoft.DataFactory/factories/Erste-DF/integrationruntimes/HPDesktop",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
